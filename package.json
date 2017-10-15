@@ -17,7 +17,9 @@
   ],
   "author": "Cole Campbell",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "mongoose": "^4.12.2",
     "ejs": "^2.5.7",
     "express": "^4.16.2"
   }
